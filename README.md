@@ -39,11 +39,13 @@ Hallazgos y resultados relevantes
 
 
 2. Peor estrategia segun tramos
+   
   * Los peores meses segun las variaciones son Mayo 2023 – Junio 2023 y Diciembre 2022 – Diciembre 2023 donde en estos casos el error domina la diferencia entre compra y venta.
 
 
 
 3. Graficos
+   
 Se generaron dos graficos para tener una referencia visual de la informacion procesada:
 
   * serie_mensual_dolar.png: Muestra de manera visual los valores que toma el dólar a lo largo de los meses evaluados.
