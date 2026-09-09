@@ -1,0 +1,16 @@
+Según el procesamiento de los datos proporcionados por el SII y aplicando los métodos de propagación y cancelación de error, se presenta la información  necesaria para tomar una decisión informada
+respecto a los mejores y peores momentos para la compra y venta de dólares, identificando los tramos más rentables e inestables del periodo analizado para poder tener futuras referencias.  
+
+1.  Al usuario le conviene comprar en la fecha de febrero del 2023,ya que tiene un valor mas bajo el cual es $798,26 CLP,tomando en cuenta que es el valor mas bajo registrado se puede 
+    observar que los meses vecinos que son Enero con un avlor de $826.34CLP y Marzo con  $809.50 CLP,la diferencia con el mas bajo es de $28.08 CLP y $11.24 CLP respectivamente,tomando en cuenta las cifras significativas
+    del mes de febrero para saber el ruido de error podemos ver que el valor de la diferencia con los meses vecinos es mayor que el ruido de error,por ello sabemos de manera concreta que el mes de febrero del
+    2023 es el mes con el valor mas barato para realizar una compra.
+2. Al usuario le renta mas vender sus dolares en el mes de Enero del 2025 ya que tiene un valor de $1000.76 CLP,tomando en cuenta los valores de los meses cercanos diciembre del 2024 con $982.30 CLP y 
+    Febrero del 2025 con un valor de $956.62 CLP la diferencia es de $18.46 y $44.14 CLP. Calculando  que el error absoluto en esta zona mas alta es de $0.76 CLP, la diferencia es significativamente 
+    mayor que la incertidumbre, garantizando con procedimiento matematicos que es el mejor mes para vender.
+3.  Comprar en Febrero del 2023 a un valor de $798.26 CLP y vender en Enero del 2025 con un valor de $1000.76 CLP.La rentabilidad calculada con esta compra y venta segun el monto inicial es del
+      25.37% con un posible error del 0.29% aproximadamnete.Es una recomendación totalmente sólida,dado que el retorno esperado supera la incertidumbre del modelo por propagación de error por un gran margen.
+4.  Los tramos que podemos decir que es irresponsable comprar y vender son  Mayo 2023 – Junio 2023 con valores de $798.64 CLP vs $799.87 CLP, tomando en cuenta que tiene una variacion del +1.23 CLP 
+    y la variación del tramo de Diciembre 2022 – Diciembre 2023 la cual es de  -0.99 CLP. En ambos casos, el error absoluto propagado 
+     domina la variación. Afirmar que el dólar subió o bajó en estos intervalos resulta irresponsable debido al fenómeno de cancelación esto tambien se puede observar en la grafica de variacion que se realizo. 
+5.  No se puede confiar en valores tan similares sin aplicar un metodo matematico el cual nos pueda dar creteza de que lo que estamos observando es rentable.
