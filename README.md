@@ -1,7 +1,9 @@
 # problema2-dolar-sii
 
-**Asignatura:** Laboratorio 1 - Computación Numérica  
+**Asignatura:** Laboratorio 1 - Computación Numérica seccion 2
+
 **Univeridad:** Universidad Católica del Maule
+
 **Integrantes** Ariel Gallardo,Manuel Fuentes
 
 
